@@ -16,7 +16,7 @@ Real-time water level monitoring
 
 Automated dam gate control based on threshold levels
 
-Rainfall and turbidity monitoring (if applicable)
+Rainfall and turbidity monitoring 
 
 GSM-based alert system for emergency notifications
 
